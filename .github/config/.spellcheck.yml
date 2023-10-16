@@ -1,0 +1,12 @@
+matrix:
+- name: Markdown
+  aspell:
+    lang: de
+    ignore-case: true
+  dictionary:
+    encoding: utf-8
+  pipeline:
+  - pyspelling.filters.markdown:
+  sources:
+  - '**/*.md'
+  default_encoding: utf-8
