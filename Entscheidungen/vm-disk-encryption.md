@@ -5,7 +5,7 @@ nav_order: 100
 title: ADR Template
 
 # These are optional elements. Feel free to remove any of them.
-status: "vorschlag"
+status: "akzeptiert"
 date: 2023-10-20
 deciders: Rene Warnke - rene@warnke.cloud
 consulted: XY
