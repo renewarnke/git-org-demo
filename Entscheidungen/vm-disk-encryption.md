@@ -7,7 +7,7 @@ title: ADR Template
 # These are optional elements. Feel free to remove any of them.
 status: "vorschlag"
 date: 2023-10-20
-deciders: Rene Warnke - rene@warnke.cloud
+deciders: Max Mustermann
 consulted: XY
 informed: AB
 ---
